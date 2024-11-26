@@ -1,0 +1,12 @@
+{
+  "name": "projetocurricularizacao",
+  "version": "1.0.0",
+  "description": "API de gerenciamento do projeto de curricularização",
+  "main": "src/server.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node --watch src/server.js"
+  },
+  "author": "Marco Antonio Lopes",
+  "license": "ISC"
+}
